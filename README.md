@@ -9,7 +9,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 🔺The sections below are updated automatically with my latest LeetCode solutions.
 
 <!---LeetCode Topics Start-->
-🧩 LeetCode Topics
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -29,4 +29,8 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
