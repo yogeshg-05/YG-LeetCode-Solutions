@@ -1,8 +1,15 @@
-# YG-LeetCode-Solutions
+# ⚡ YG LeetCode Solutions
+
 A collection of my LeetCode solutions covering DSA, algorithms, problem-solving patterns, and coding challenges.
 
+## 📊 Progress
+
+Documenting my problem-solving journey through LeetCode, with solutions organized by topic and continuously updated as I solve new challenges.
+
+🔺The sections below are updated automatically with my latest LeetCode solutions.
+
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+🧩 LeetCode Topics
 ## Array
 |  |
 | ------- |
