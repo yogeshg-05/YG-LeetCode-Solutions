@@ -15,6 +15,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | ------- |
 | [0001-two-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0018-4sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -38,4 +39,12 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
