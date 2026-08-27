@@ -22,11 +22,13 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | ------- |
 | [0001-two-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -47,4 +49,16 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 |  |
 | ------- |
 | [0018-4sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0018-4sum) |
+## Greedy
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
