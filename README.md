@@ -16,6 +16,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [0001-two-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0018-4sum) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 |  |
 | ------- |
 | [0018-4sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0018-4sum) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -64,4 +66,8 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
