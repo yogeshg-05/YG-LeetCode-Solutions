@@ -79,6 +79,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
@@ -97,4 +98,8 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
