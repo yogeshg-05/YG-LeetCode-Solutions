@@ -18,6 +18,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [0018-4sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0018-4sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -28,6 +29,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0001-two-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -81,6 +83,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
@@ -120,6 +123,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [0021-merge-two-sorted-lists](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
