@@ -16,6 +16,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [0001-two-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0018-4sum) |
+| [0835-image-overlap](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -138,6 +139,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
