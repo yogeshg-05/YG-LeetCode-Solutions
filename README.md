@@ -17,6 +17,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [0014-longest-common-prefix](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0835-image-overlap](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -81,6 +82,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [0018-4sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0027-remove-element) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
