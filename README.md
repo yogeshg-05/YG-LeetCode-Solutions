@@ -37,6 +37,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0001-two-sum) |
+| [1096-brace-expansion-ii](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -51,6 +52,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [0022-generate-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -89,6 +91,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 |  |
 | ------- |
 | [0018-4sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0018-4sum) |
+| [1096-brace-expansion-ii](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
@@ -123,6 +126,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -143,6 +147,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -157,6 +162,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
