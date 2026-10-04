@@ -53,6 +53,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -101,6 +102,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -131,6 +133,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | ------- |
 | [0020-valid-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -139,6 +142,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [0020-valid-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
@@ -146,6 +150,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [0022-generate-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
