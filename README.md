@@ -33,6 +33,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [3524-find-x-value-of-array-i](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -150,6 +151,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -222,12 +224,14 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [1096-brace-expansion-ii](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -244,6 +248,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
