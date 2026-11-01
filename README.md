@@ -18,6 +18,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [0018-4sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -93,6 +94,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | ------- |
 | [0009-palindrome-number](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
