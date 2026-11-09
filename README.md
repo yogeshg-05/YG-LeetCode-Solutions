@@ -24,6 +24,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [1267-count-servers-that-communicate](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1882-process-tasks-using-servers](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -315,6 +316,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -340,4 +342,12 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
