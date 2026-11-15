@@ -24,6 +24,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [1267-count-servers-that-communicate](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1882-process-tasks-using-servers](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
@@ -105,6 +106,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [0009-palindrome-number](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -220,6 +222,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [0678-valid-parenthesis-string](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -271,6 +274,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
