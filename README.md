@@ -119,6 +119,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -379,6 +380,7 @@ Documenting my problem-solving journey through LeetCode, with solutions organize
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3360-stone-removal-game](https://github.com/yogeshg-05/YG-LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Ordered Set
 |  |
 | ------- |
